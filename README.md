@@ -1,2 +1,4 @@
 # Hello-Friend
-my first
+
+Hi all,
+This is my first modification to a branch. 
